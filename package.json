@@ -1,0 +1,31 @@
+{
+  "name": "eng-fes-2015",
+  "version": "0.0.1",
+  "author": "hico-horiuchi",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hico-horiuchi/eng-fes-2015.git"
+  },
+  "dependencies": {
+    "bower": ">= 1.5.x"
+  },
+  "devDependencies": {
+    "coffee-script": ">= 1.9.x",
+    "gulp": ">= 3.9.x",
+    "gulp-coffee": ">= 2.3.x",
+    "gulp-concat": ">= 2.6.x",
+    "gulp-load-plugins": ">= 0.10.x",
+    "gulp-minify-css": ">= 1.2.x",
+    "gulp-sass": ">= 2.0.x",
+    "gulp-slim": ">= 0.3.x",
+    "gulp-uglify": ">= 1.4.x",
+    "gulp-webserver": ">= 0.9.x",
+    "main-bower-files": ">= 2.9.x"
+  },
+  "engines": {
+    "node": ">= 0.12.x",
+    "npm": ">= 3.3.x"
+  }
+}

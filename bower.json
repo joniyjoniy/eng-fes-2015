@@ -1,0 +1,14 @@
+{
+  "name": "hico-horiuchi.github.io",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "materialize": ">= 0.97.x",
+    "fontawesome": ">= 4.4.x"
+  },
+  "devDependencies": {}
+}
