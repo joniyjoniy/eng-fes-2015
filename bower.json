@@ -7,8 +7,9 @@
     "bower_components"
   ],
   "dependencies": {
+    "fontawesome": ">= 4.4.x",
     "materialize": ">= 0.97.x",
-    "fontawesome": ">= 4.4.x"
+    "mithril": ">= 0.2.x"
   },
   "devDependencies": {}
 }

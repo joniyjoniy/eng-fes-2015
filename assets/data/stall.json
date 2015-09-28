@@ -1,0 +1,110 @@
+[
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "title": "模擬店",
+    "image": "sample5.jpg",
+    "menus": [
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      },
+      {
+        "name": "メニュー",
+        "price": 100
+      }
+    ]
+  }
+]
