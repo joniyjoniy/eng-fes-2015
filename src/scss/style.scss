@@ -45,8 +45,12 @@ iframe {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
+.parallax-container {
+  height: 400px;
+}
+
 .parallax-narrow {
-  height: 250px;
+  height: 200px;
 }
 
 .card {
