@@ -25,6 +25,14 @@
   font-weight: bold;
 }
 
+img.shadow {
+  -webkit-filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.16));
+  -moz-filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.16));
+  -o-filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.16));
+  -ms-filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.16));
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.16));
+}
+
 .no-border {
   border: none !important;
   border-top: none !important;
@@ -54,6 +62,7 @@ nav {
   .section-title {
     font-size: 36px;
     line-height: normal;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
 
     img {
       height: 36px;

@@ -16,7 +16,7 @@
     m('.container', [
       m('.section-title.brand-darker-text.m-b-sm.m-l-sm', [
         m('i.fa.fa-cutlery.m-r-sm'),
-        m('img[src=./assets/images/stall.png][alt=stall.png]')
+        m('img.shadow[src=./assets/images/stall.png][alt=stall.png]')
       ])
       m('.row.m-b-0', [
         stall.list().map((item) ->
