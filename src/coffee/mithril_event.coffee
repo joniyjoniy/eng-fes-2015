@@ -34,7 +34,7 @@
                     alt: item.banner
                   })
                 ]),
-                m('p.grey-text.m-t-sm', item.description)
+                m('p.grey-text.m-t-sm', m.trust(item.description.replace(/\n/g, '<br />')))
               ])
             ])
           ])
