@@ -11,33 +11,33 @@
     "image": "sample3.jpg",
     "icon": "microphone",
     "banner": "karaoke.png",
-    "description": "超難問！？\nクイズに答えて\n豪華賞品をGET!!!\n"},
+    "description": "超難問!?\nクイズに答えて\n豪華賞品をGET!!!\n"},
   {
     "title": "ジャズライブ",
     "image": "sample3.jpg",
     "icon": "music",
     "banner": "jazz.png",
-    "description": "JAZZお好きですか?\nおしゃれな雰囲気に\nなってみませんか?!"
+    "description": "JAZZお好きですか?\nおしゃれな雰囲気に\nなってみませんか!?"
   },
   {
     "title": "スタンプラリー",
     "image": "sample4.jpg",
     "icon": "star",
     "banner": "stamp.png",
-    "description": "工学部を回ってお菓子をゲット！\n一緒に色々なところを\n見て回ってください！"
+    "description": "工学部を回ってお菓子をゲット!\n一緒に色々なところを\n見て回ってください!"
   },
   {
     "title": "学生相談室",
     "image": "sample4.jpg",
     "icon": "graduation-cap",
     "banner": "consul.png",
-    "description": "工学部について知りたいこと、\n聞きたいことなど\nドシドシ相談に来てください！"
+    "description": "工学部について知りたいこと、\n聞きたいことなど\nドシドシ相談に来てください!"
   },
   {
     "title": "写真展",
     "image": "sample4.jpg",
     "icon": "camera",
     "banner": "photo.png",
-    "description": "RISE写真部が\n色々な場所で撮った写真を\n展示しています。\n展示場所:6号館3階6306教室、食堂"
+    "description": "RISE写真部が\n色々な場所で撮った写真を\n展示しています。\n展示場所: 6号館3階6306教室、食堂"
   }
 ]
