@@ -2,6 +2,7 @@
 .*.swp
 *#*
 .DS_Store
+bower_components
 npm-debug.log
 node_modules/
-bower_components
+playbook/hosts
