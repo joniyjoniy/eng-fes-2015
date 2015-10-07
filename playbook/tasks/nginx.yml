@@ -1,0 +1,34 @@
+---
+- name: apt-get install nginx
+  apt:
+    name=nginx
+    state=present
+  sudo: yes
+
+- name: test -f sites-enabled/gulp
+  command:
+    test -f /etc/nginx/sites-enabled/{{ project }}
+  ignore_errors: yes
+  register: test_nginx_gulp
+
+- name: rm sites-enabled/default
+  command:
+    rm /etc/nginx/sites-enabled/default
+  sudo: yes
+  when: test_nginx_gulp|failed
+
+- name: scp templates/gulp
+  template:
+    src=templates/gulp.j2
+    dest=/etc/nginx/sites-available/{{ project }}
+    owner=root
+    group=root
+    mode=0644
+  sudo: yes
+  when: test_nginx_gulp|failed
+
+- name: ln -s sites-available/gulp
+  command:
+    ln -s /etc/nginx/sites-available/{{ project }} /etc/nginx/sites-enabled/{{ project }}
+  sudo: yes
+  when: test_nginx_gulp|failed

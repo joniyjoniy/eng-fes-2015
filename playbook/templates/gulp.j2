@@ -1,0 +1,9 @@
+server {
+  listen 80;
+  server_name  {{ ansible_fqdn }};
+
+  location / {
+    root {{ dest }};
+    index index.html;
+  }
+}

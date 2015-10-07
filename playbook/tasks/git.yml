@@ -1,0 +1,14 @@
+---
+- name: apt-get install git
+  apt:
+    name=git
+    state=present
+  sudo: yes
+
+- name: git clone/pull
+  git:
+    accept_hostkey=yes
+    dest={{ dest }}
+    force=yes
+    repo={{ repo }}
+  sudo: yes
