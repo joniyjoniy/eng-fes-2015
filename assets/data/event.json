@@ -4,47 +4,47 @@
     "image": "kotochan.jpg",
     "icon": "child",
     "banner": "kotochan.png",
-    "description": "ことちゃん、ことみちゃんと\n一緒に写真を撮ったり、\n握手ができるよ!"
+    "description": "ことちゃん、ことみちゃんと一緒に\n写真を撮ったり、握手ができるよ!"
   },
   {
     "title": "○×クイズ",
     "image": "stage.jpg",
     "icon": "map-signs",
     "banner": "quiz.png",
-    "description": "下手でもかまいませんよ!\n参加賞あります!!\nみんなで盛り上がりましょう!!!"
+    "description": "大人から子供まで楽しめる○×クイズ!!\n自転車から3DSまで豪華景品が多数!!!!\n大人の部、子供の部に分けて二部構成で開催!!!!"
   },
   {
     "title": "カラオケ大会",
     "image": "microphone.jpg",
     "icon": "microphone",
     "banner": "karaoke.png",
-    "description": "超難問!?\nクイズに答えて\n豪華賞品をGET!!!\n"},
+    "description": "みんな大好きカラオケ大会\n工学部生が自慢ののどを披露します!!!\n皆さんで一緒にテンション上げていきましょう!!!"},
   {
     "title": "ジャズライブ",
     "image": "instruments.jpg",
     "icon": "music",
     "banner": "jazz.png",
-    "description": "JAZZお好きですか?\nおしゃれな雰囲気に\nなってみませんか!?"
+    "description": "工学部祭を締めくくるジャズライブ!!\n独特でおしゃれな雰囲気に浸ってみませんか?\n素敵な一時をお過ごしください!!"
   },
   {
     "title": "スタンプラリー",
     "image": "halloween.jpg",
     "icon": "star",
     "banner": "stamp.png",
-    "description": "工学部を回ってお菓子をゲット!\n一緒に色々なところを\n見て回ってください!"
+    "description": "工学部を回ってお菓子をゲット!\n一緒に色々なところを見て回ってください!"
   },
   {
     "title": "学生相談室",
     "image": "explain.jpg",
     "icon": "graduation-cap",
     "banner": "consul.png",
-    "description": "工学部について知りたいこと、\n聞きたいことなど\nドシドシ相談に来てください!"
+    "description": "工学部について知りたいこと、聞きたいことなど\nドシドシ相談に来てください!"
   },
   {
     "title": "写真展",
     "image": "camera.jpg",
     "icon": "camera",
     "banner": "photo.png",
-    "description": "RISE写真部が色々な場所で\n撮った写真を展示しています。\n展示場所: 6号館3階6306教室、食堂"
+    "description": "RISE写真部が様々な場所で\n撮った写真を展示します!!\n展示場所: 6号館3階6306教室、食堂"
   }
 ]
