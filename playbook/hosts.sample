@@ -1,0 +1,6 @@
+[gulp]
+localhost
+
+[gulp:vars]
+repo=git://github.com/hico-horiuchi/eng-fes-2015.git
+project=eng-fes-2015

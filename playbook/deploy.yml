@@ -1,0 +1,9 @@
+---
+- hosts: gulp
+  vars:
+    dest: '/srv/{{project}}'
+    colon: ':'
+  tasks:
+    - include: tasks/git.yml
+    - include: tasks/nginx.yml
+    - include: tasks/service.yml
