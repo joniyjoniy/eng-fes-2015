@@ -21,22 +21,29 @@
       m('.row.m-b-0', [
         stall.list().map((item) ->
           m('.col.s12.m6.l4', [
-            m('ul.collection.no-border', [
-              m('li.collection-item.no-border.p-a-0', [
-                m('img.responsive-img.m-a-0', {
+            m('.card', [
+              m('.card-image', [
+                m('img', {
                   src: "./assets/images/#{item.image}"
                   alt: item.image
                 })
               ]),
-              item.menus.map((menu) ->
-                m('li.collection-item', [
-                  menu.name,
-                  m('.secondary-content.grey-text', [
-                    m('i.fa.fa-jpy'),
-                    String(menu.price)
-                  ])
+              m('.card-content.p-a-0', [
+                m('ul.collection.no-border.m-a-0', [
+                  m('li.collection-item.center', [
+                    m('span.title.bold', item.title)
+                  ]),
+                  item.menus.map((menu) ->
+                    m('li.collection-item', [
+                      menu.name,
+                      m('.secondary-content.grey-text', [
+                        m('i.fa.fa-jpy'),
+                        String(menu.price)
+                      ])
+                    ])
+                  )
                 ])
-              )
+              ]),
             ])
           ])
         )
