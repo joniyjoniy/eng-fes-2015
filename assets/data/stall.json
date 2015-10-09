@@ -1,5 +1,15 @@
 [
   {
+    "title": "豚まんショップ",
+    "image": "porkbuns.png",
+    "menus": [
+      {
+        "name": "準備中",
+        "price": 0
+      }
+    ]
+  },
+  {
     "title": "模擬店",
     "image": "grill.jpg",
     "menus": [
