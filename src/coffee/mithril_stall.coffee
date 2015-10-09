@@ -20,7 +20,7 @@
       ])
       m('.row.m-b-0', [
         stall.list().map((item) ->
-          m('.col.s12.m6.l4', [
+          m('.col.s12.m6.l3', [
             m('.card', [
               m('.card-image', [
                 m('img', {
