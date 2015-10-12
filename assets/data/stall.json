@@ -1,44 +1,14 @@
 [
   {
-    "title": "豚まんショップ",
-    "image": "porkbuns.png",
-    "menus": [
-      {
-        "name": "豚まん",
-        "price": "準備中"
-      },
-      {
-          "name": "かき氷",
-        "price": "準備中"
-      }
-    ]
-  },
-  {
-    "title": "中国餃子",
-    "image": "gyoza.png",
-    "menus": [
-      {
-        "name": "餃子",
-        "price": "準備中"
-      }
-    ]
-  },
-  {
-    "title": "やきとり松屋",
-    "image": "yakitori.png",
-    "menus": [
-      {
-        "name": "やきとり",
-        "price": "準備中"
-      }
-    ]
-  },
-  {
     "title": "ポップコーンSLP",
     "image": "popcorn.png",
     "menus": [
       {
-        "name": "ポップコーンとジュース",
+        "name": "ポップコーン",
+        "price": "準備中"
+      },
+      {
+        "name": "ジュース",
         "price": "準備中"
       }
     ]
@@ -59,6 +29,40 @@
     "menus": [
       {
         "name": "準備中",
+        "price": "準備中"
+      }
+    ]
+  },
+  {
+    "title": "やきとり松屋",
+    "image": "yakitori.png",
+    "menus": [
+      {
+        "name": "やきとり",
+        "price": "準備中"
+      }
+    ]
+  },
+  {
+    "title": "中国餃子",
+    "image": "gyoza.png",
+    "menus": [
+      {
+        "name": "餃子",
+        "price": "準備中"
+      }
+    ]
+  },
+  {
+    "title": "豚まんショップ",
+    "image": "porkbuns.png",
+    "menus": [
+      {
+        "name": "豚まん",
+        "price": "準備中"
+      },
+      {
+        "name": "かき氷",
         "price": "準備中"
       }
     ]
