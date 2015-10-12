@@ -32,16 +32,16 @@
                 m('ul.collection.no-border.m-a-0', [
                   m('li.collection-item.center', [
                     m('span.title.bold', item.title)
-                  ]),
-                  item.menus.map((menu) ->
-                    m('li.collection-item', [
-                      menu.name,
-                      m('.secondary-content.grey-text', [
-                        m('i.fa.fa-jpy'),
-                        String(menu.price)
-                      ])
-                    ])
-                  )
+                  ])
+                  # item.menus.map((menu) ->
+                  #   m('li.collection-item', [
+                  #     menu.name
+                  #     m('.secondary-content.grey-text', [
+                  #       m('i.fa.fa-jpy'),
+                  #       String(menu.price)
+                  #     ])
+                  #   ])
+                  # )
                 ])
               ]),
             ])
